@@ -1,6 +1,7 @@
-panduan Aplikasi  Data Siswa
- pertama login dahulu masuk sebagain admin,web aplikasi yang saya buat hanya ada admin saja 
- setelah masuk kedashboard bisa mendata siswa seperti nama,alamat jenis kelamin ,agama
- jika sudah mendata siswa pasti akan muncul didalam dashboard jika sudah muncul  bisa mengklik nama siswa  nanti akan masuk ke dalam profil siswa 
- jika sudah masuk ke profil siswa disana ada kode ,mata pelajaran ,dan nilai admin bisa memasukkan nilai siswa tersebut sesuai demgan mapelnya 
- akun admin: rolloic@gmail.com pass:rahasia
+panduan Aplikasi Data Siswa  
+    Admin:
+        1.login dahaulu untuk mengakses dashboard
+         2.bisa mendata siswa nama,alamat,jenis kelamin,agama
+         3.setelah mendata siswa,pencet nama siswa untuk bisa masuk ke dalam profile siswa 
+         4.diprofile siswa admin bisa mendata nilai siswa  
+       kategori akun:rolloic@gmail.com pass:rahasia
